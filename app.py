@@ -6,7 +6,7 @@ import pandas as pd
 import re
 from datetime import datetime
 from textblob import TextBlob
-
+from textblob import TextBlob
 # --- UI CONFIG ---
 st.set_page_config(page_title="AI Marketing Assistant", layout="wide")
 
